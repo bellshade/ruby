@@ -2,9 +2,9 @@ Repositori ini berisi kumpulan berbagai macam _source code_ struktur data, algor
 
 ## 🎉🎉 Selamat Datang di Ruby 🎉🎉
 
-Ruby adalah bahasa pemograman yang diciptakan oleh Yukihiro `"Matz"` Matsumoto pada tahun 1995 dengan tujuan untuk menggabungkan komputasi fungsional dan pemrograman imperatif, serta mengutamakan produktivitas pengembang dan kemudahan penggunaan. Ruby adalah bahasa yang dirancang untuk memberikan keseimbangan antara kekuatan dan kemudahan penggunaan. Dengan filosofi "lebih manusiawi", Ruby memprioritaskan pengalaman pengembang dengan menekankan pada kemudahan menulis dan membaca kode. Kombinasi dari paradigma berorientasi objek, pemrograman fungsional, metaprogramming, serta ekosistem yang kuat seperti Ruby on Rails, membuat Ruby menjadi pilihan populer dalam pengembangan web dan banyak aplikasi lainnya.
+Ruby adalah bahasa pemrograman yang diciptakan oleh Yukihiro `"Matz"` Matsumoto pada tahun 1995 dengan tujuan untuk menggabungkan komputasi fungsional dan pemrograman imperatif, serta mengutamakan produktivitas pengembang dan kemudahan penggunaan. Ruby adalah bahasa yang dirancang untuk memberikan keseimbangan antara kekuatan dan kemudahan penggunaan. Dengan filosofi "lebih manusiawi", Ruby memprioritaskan pengalaman pengembang dengan menekankan pada kemudahan menulis dan membaca kode. Kombinasi dari paradigma berorientasi objek, pemrograman fungsional, metaprogramming, serta ekosistem yang kuat seperti Ruby on Rails, membuat Ruby menjadi pilihan populer dalam pengembangan web dan banyak aplikasi lainnya.
 
-Keuntungan dari bahasa pemograman ruby:
+Keuntungan dari bahasa pemrograman ruby:
 - Sintaks yang Mudah dibaca
 - Memiliki Garbage collection
 - Komunitas dan ekosistem yang kuat
